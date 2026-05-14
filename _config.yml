@@ -1,0 +1,16 @@
+title: Stikkas
+description: Digital products, planners, and printables for creators.
+theme: jekyll-theme-minimal
+markdown: kramdown
+
+# Site settings
+url: "https://officialstikkas.github.io"
+baseurl: "/stikkas"
+
+# Build settings
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
