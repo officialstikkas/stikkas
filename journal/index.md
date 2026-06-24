@@ -85,6 +85,16 @@ What couples actually spend, what gets cut at the last minute, and the two colum
 
 The day-of execution. Timeline, binder, coordinator, kit, signage, and the music that runs the room.
 
+### [Wedding ceremony programs: what to include, how to print, and when to skip them](/stikkas/journal/wedding-ceremony-program-guide/)
+*10 min read · June 24, 2026*
+
+From a 25-year wedding DJ: what every ceremony program needs, the back-page opportunity most couples waste, and the print specs that make a cheap piece of paper feel like a keepsake.
+
+### [Escort cards vs place cards: what's the difference and which do you need?](/stikkas/journal/wedding-escort-cards-vs-place-cards/)
+*9 min read · June 24, 2026*
+
+They're not the same thing. Escort cards direct guests to their table; place cards assign a seat. Here's exactly when you need each, how many to print, and the setup tips that prevent cocktail-hour chaos.
+
 ### [Wedding signage you actually need (and the seven signs nobody reads)](/stikkas/journal/wedding-signage-you-actually-need/)
 *12 min read · June 21, 2026*
 
