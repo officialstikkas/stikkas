@@ -1,0 +1,118 @@
+{% seo %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Stikkas",
+  "alternateName": "Stikkas Studio",
+  "url": "{{ site.url }}{{ site.baseurl }}/",
+  "description": "{{ site.description }}",
+  "founder": {
+    "@type": "Person",
+    "name": "Oscar Arana",
+    "url": "{{ site.url }}{{ site.baseurl }}/about/"
+  },
+  "founderName": "Oscar Arana",
+  "location": {
+    "@type": "Place",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "Los Angeles",
+      "addressRegion": "CA",
+      "addressCountry": "US"
+    }
+  },
+  "sameAs": [
+    "https://www.etsy.com/shop/thedailytool",
+    "https://www.amazon.com/dp/B0GWMTXPMK"
+  ]
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Oscar Arana",
+  "url": "{{ site.url }}{{ site.baseurl }}/about/",
+  "jobTitle": "Creative Designer, Print-Shop Specialist, Wedding DJ",
+  "description": "Thirty-plus years in print shops, twenty-five-plus years DJing weddings. Designer of wedding planners, journals, and printables for Stikkas studio in Los Angeles.",
+  "knowsAbout": [
+    "Wedding planning",
+    "Wedding reception timelines",
+    "Wedding DJ services",
+    "Wedding budgeting",
+    "Wedding signage and printables",
+    "Print design",
+    "CMYK color management",
+    "Photography printing",
+    "Large-format printing"
+  ],
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Stikkas",
+    "url": "{{ site.url }}{{ site.baseurl }}/"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Los Angeles",
+    "addressRegion": "CA",
+    "addressCountry": "US"
+  }
+}
+</script>
+
+{% if page.date and page.category %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ page.title | jsonify }},
+  "description": {{ page.description | jsonify }},
+  "datePublished": "{{ page.date | date_to_xmlschema }}",
+  "dateModified": "{{ page.date | date_to_xmlschema }}",
+  "articleSection": {{ page.category | jsonify }},
+  "author": {
+    "@type": "Person",
+    "name": "Oscar Arana",
+    "url": "{{ site.url }}{{ site.baseurl }}/about/",
+    "jobTitle": "Print-Shop Specialist & Wedding DJ"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Stikkas",
+    "url": "{{ site.url }}{{ site.baseurl }}/",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "{{ site.url }}{{ site.baseurl }}/assets/stikkas-logo.png"
+    }
+  },
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.permalink }}"
+  }
+}
+</script>
+{% endif %}
+
+{% if page.faq %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {% for item in page.faq %}
+    {
+      "@type": "Question",
+      "name": {{ item.question | jsonify }},
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": {{ item.answer | jsonify }}
+      }
+    }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}

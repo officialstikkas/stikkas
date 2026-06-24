@@ -1,15 +1,20 @@
 title: Stikkas
-description: Digital products, planners, and printables for creators.
+description: "A small LA studio designing planners, wedding kits, journals, and coloring books — by a 30-year print-shop pro and 25-year wedding DJ."
 theme: jekyll-theme-minimal
 markdown: kramdown
 
 # Site settings
 url: "https://officialstikkas.github.io"
 baseurl: "/stikkas"
+author: Oscar Arana
+twitter:
+  card: summary
 
 # Build settings
 plugins:
   - jekyll-relative-links
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
 relative_links:
   enabled: true
