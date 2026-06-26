@@ -25,6 +25,41 @@ If the wedding day itself is what's worrying you (the timeline, the binder, the 
 
 ## Latest posts
 
+### [Back-to-School Planner Bundle 2026-2027: The Teacher + Student System in One Download](/stikkas/journal/back-to-school-planner-bundle-2026/)
+*Back to School · 6 min read · June 26, 2026*
+
+When the same household runs teacher prep and student deadlines at the same time, one bundle covers both. What's inside, who it's for, and how it fits the actual 2026-2027 academic year.
+
+---
+
+### [Student Academic Planner 2026-2027: Why a PDF Planner Outlasts Every App You've Tried](/stikkas/journal/student-academic-planner-2026-2027/)
+*Back to School · 8 min read · June 26, 2026*
+
+A practical guide to choosing a digital academic planner — what to look for, how GoodNotes changes the game, and why most planning apps fall apart by midterms. The sections that matter and the ones that are just filler.
+
+---
+
+### [Digital Teacher Planner 2026-2027: What 30 Years in Print Taught Me About Finding One That Works](/stikkas/journal/teacher-planner-2026-2027/)
+*Back to School · 9 min read · June 26, 2026*
+
+An LA print specialist on what separates a teacher planner that actually holds up from ones that look good in screenshots but fall apart by October. Lesson plan spreads, grade trackers, the PD section most planners skip, and what digital format actually adds.
+
+---
+
+### [Wedding Ceremony Programs: What to Include, How to Print, and When to Skip Them](/stikkas/journal/wedding-ceremony-program-guide/)
+*Wedding Day · 7 min read · June 24, 2026*
+
+A complete guide from a 30-year print specialist — what goes in, what to leave out, how to print correctly, and when you can skip it entirely. The formatting mistakes that make programs look cheap and the layout decisions that make them readable from the third row.
+
+---
+
+### [Escort Cards vs. Place Cards: What's the Difference and Which Do You Need?](/stikkas/journal/wedding-escort-cards-vs-place-cards/)
+*Wedding Day · 7 min read · June 24, 2026*
+
+A 25-year wedding DJ on the real difference between escort cards and place cards, how they fit into the reception flow, and when you need one, the other, or both. The setup logistics that trip up most couples — and the mistakes that slow down the seating process.
+
+---
+
 ### [How to print a Father's Day gift at home so it doesn't look like a worksheet](/stikkas/journal/print-fathers-day-gift-at-home/)
 *Print How-To · 11 min read · June 9, 2026*
 
