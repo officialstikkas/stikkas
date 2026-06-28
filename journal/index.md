@@ -145,6 +145,37 @@ The first dance songs that actually land on a real dance floor — by tempo, by 
 
 The document that protects your reception from the songs that will quietly ruin it. What to put on the list, what to leave off, and the cliché traps the DJ defaults to without one.
 
+### [The engagement party planning checklist — 8 weeks, week by week](/stikkas/journal/engagement-party-checklist/)
+*10 min read · June 28, 2026*
+
+What to lock down first, what can wait, and the three things every engagement party needs that no template remembers to include. From 25 years of watching people plan these.
+
+---
+
+## Back to School
+
+Planners and planning systems for teachers, students, and homeschool families — written from a print shop that's processed thousands of them.
+
+### [The teacher planner for 2026-2027 — what actually makes one work](/stikkas/journal/teacher-planner-2026-2027/)
+*9 min read · June 28, 2026*
+
+What separates a planner that survives the whole school year from one that ends up in the drawer by October. Weekly lesson plan pages, grade tracking, parent contact logs — from 30 years in print.
+
+### [Digital student academic planner 2026-2027: why a PDF planner outlasts every app you've tried](/stikkas/journal/student-academic-planner-2026-2027/)
+*9 min read · June 26, 2026*
+
+What apps get wrong about academic planning, what a fillable PDF does differently, and the sections a 2026-2027 student planner actually needs.
+
+### [Back to school bundle 2026-2027: teacher + student planner guide](/stikkas/journal/back-to-school-planner-bundle-2026/)
+*7 min read · June 26, 2026*
+
+Why pairing a teacher and student planner from the same system saves setup time, aligns the academic calendar, and costs less than buying them separately.
+
+### [Homeschool planning guide 2026-2027: how to organize your academic year before it starts](/stikkas/journal/homeschool-family-planner-2026-2027/)
+*10 min read · June 28, 2026*
+
+Curriculum mapping, multi-child scheduling, state compliance hours, co-op tracking — how to build a plan that holds together from September to June. For multi-child families who need more than a standard teacher planner.
+
 ---
 
 ## Gift Guides
