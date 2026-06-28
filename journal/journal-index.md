@@ -25,6 +25,13 @@ If the wedding day itself is what's worrying you (the timeline, the binder, the 
 
 ## Latest posts
 
+### [Engagement Party Planning Checklist: The 8-Week Timeline, What to Decide First, and the Three Things Most Parties Miss](/stikkas/journal/engagement-party-checklist/)
+*Wedding Planning · 10 min read · June 28, 2026*
+
+A 25-year wedding DJ on what to lock down in week eight, what can wait, the logistics that need lead time, and the three elements every engagement party needs that no template ever remembers to include. Week-by-week from decision to day-of.
+
+---
+
 ### [Back-to-School Planner Bundle 2026-2027: The Teacher + Student System in One Download](/stikkas/journal/back-to-school-planner-bundle-2026/)
 *Back to School · 6 min read · June 26, 2026*
 
