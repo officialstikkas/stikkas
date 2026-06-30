@@ -25,6 +25,27 @@ If the wedding day itself is what's worrying you (the timeline, the binder, the 
 
 ## Latest posts
 
+### [College Dorm Checklist 2026: What to Bring, What to Skip, and How to Actually Get Organized](/stikkas/journal/college-dorm-checklist-2026/)
+*Back to School · 10 min read · June 30, 2026*
+
+A practical packing list and organization guide for college move-in day 2026 — what to bring, what to coordinate with your roommate, the roommate agreement that prevents conflicts before they start, and how to build a first-semester system that actually holds.
+
+---
+
+### [Fall Quarterly Planner 2026: How to Actually Finish the Year Strong](/stikkas/journal/fall-quarterly-planner-2026/)
+*Planners & Seasonal · 8 min read · June 30, 2026*
+
+September through November is fifteen weeks. A practical guide to setting Q4 goals, building a weekly review habit, and using a fall quarterly planner to finish 2026 with intention instead of just enduring the holiday sprint.
+
+---
+
+### [Homeschool Family Planner 2026-2027: How to Plan a Full School Year at Home](/stikkas/journal/homeschool-family-planner-2026-2027/)
+*Back to School · 10 min read · June 28, 2026*
+
+For families teaching at home — how a multi-child planner covers curriculum planning, state compliance hours, co-op schedules, and the reading logs that paper-based systems miss. Why homeschool planning is different from classroom planning.
+
+---
+
 ### [Engagement Party Planning Checklist: The 8-Week Timeline, What to Decide First, and the Three Things Most Parties Miss](/stikkas/journal/engagement-party-checklist/)
 *Wedding Planning · 10 min read · June 28, 2026*
 
