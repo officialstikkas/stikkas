@@ -46,6 +46,13 @@ For families teaching at home — how a multi-child planner covers curriculum pl
 
 ---
 
+### [Bachelorette Party Planning Guide: Everything the MOH Needs to Know](/stikkas/journal/bachelorette-party-planning-guide/)
+*Wedding Planning · 12 min read · July 1, 2026*
+
+The complete MOH guide — timeline, budget splitting, destination city breakdowns (Nashville, New Orleans, Scottsdale, Charleston, Palm Springs), games that work, and the day-of coordination checklist. Plan a bachelorette the bride will actually remember.
+
+---
+
 ### [Engagement Party Planning Checklist: The 8-Week Timeline, What to Decide First, and the Three Things Most Parties Miss](/stikkas/journal/engagement-party-checklist/)
 *Wedding Planning · 10 min read · June 28, 2026*
 
