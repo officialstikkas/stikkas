@@ -230,6 +230,17 @@ When paper wins, when the app wins, and why the answer is usually somewhere in b
 
 ---
 
+## Holiday Entertaining & Hosting
+
+Thanksgiving, Friendsgiving, and holiday gathering guides for hosts who want to be present — not buried in logistics.
+
+### [How to plan the perfect Thanksgiving & Friendsgiving — complete hosting guide 2026](/stikkas/journal/thanksgiving-friendsgiving-hosting-guide/)
+*12 min read · July 1, 2026*
+
+8-week countdown, potluck coordinator, cooking timeline, seating strategy, gratitude activity prompts, and the Friendsgiving details that make a gathering memorable. Every step from first invitation to hostess notes.
+
+---
+
 ## Print & Paper
 
 The hidden craft of putting digital files on paper that doesn't look like a worksheet.
