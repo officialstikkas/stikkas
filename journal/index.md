@@ -176,6 +176,22 @@ Why pairing a teacher and student planner from the same system saves setup time,
 
 Curriculum mapping, multi-child scheduling, state compliance hours, co-op tracking — how to build a plan that holds together from September to June. For multi-child families who need more than a standard teacher planner.
 
+### [Kids summer learning activities: printable worksheets to keep kids sharp all summer](/stikkas/journal/kids-summer-learning-activities-printable/)
+*10 min read · July 2, 2026*
+
+Age-by-age guide to printable learning activities for toddlers through elementary school — 15 minutes a day to prevent summer brain drain, with a sustainable routine that actually sticks.
+
+---
+
+## Life & Home Planning
+
+Adulting guides, first apartments, and the printable systems that make new life chapters less chaotic.
+
+### [First apartment checklist 2026: everything you need when moving out for the first time](/stikkas/journal/first-apartment-checklist-2026/)
+*12 min read · July 2, 2026*
+
+Room-by-room essentials, forgotten adulting must-haves, a realistic setup budget, and a week-by-week moving timeline. From someone who's helped hundreds of people navigate the paper side of a move.
+
 ---
 
 ## Gift Guides
