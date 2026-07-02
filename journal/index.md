@@ -232,7 +232,12 @@ When paper wins, when the app wins, and why the answer is usually somewhere in b
 
 ## Holiday Entertaining & Hosting
 
-Thanksgiving, Friendsgiving, and holiday gathering guides for hosts who want to be present — not buried in logistics.
+Thanksgiving, Friendsgiving, and Christmas hosting guides for hosts who want to be present — not buried in logistics.
+
+### [How to Host Christmas Like a Pro — Complete Holiday Hosting Guide 2026](/stikkas/journal/christmas-hosting-guide-2026/)
+*15 min read · July 2, 2026*
+
+Gift tracking, budget planning, baking schedules, cooking timelines, decoration checklists, Christmas morning plans, holiday memories journaling, and a New Year's transition. The complete December framework for hosts.
 
 ### [How to plan the perfect Thanksgiving & Friendsgiving — complete hosting guide 2026](/stikkas/journal/thanksgiving-friendsgiving-hosting-guide/)
 *12 min read · July 1, 2026*
