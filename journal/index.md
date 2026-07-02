@@ -229,6 +229,11 @@ An honest gift guide from an LA print specialist who happens to also be a dad. W
 
 What makes a planner survive past Wednesday. Honest takes from someone who designs them.
 
+### [Small business planner: how to organize your freelance business in 2026](/stikkas/journal/small-business-planner-freelance-organizer/)
+*13 min read · July 2, 2026*
+
+Income tracking, expense logging, client roster, project dashboard, weekly planning, and quarterly goal-setting — the sections a freelance business planner actually needs, what most people skip, and how to build a habit that sticks.
+
 ### [How to use Atomic Habits with a printable tracker](/stikkas/journal/atomic-habits-printable-tracker/)
 *8 min read · June 12, 2026*
 
