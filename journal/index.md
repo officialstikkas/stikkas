@@ -156,6 +156,11 @@ What to lock down first, what can wait, and the three things every engagement pa
 
 Planners and planning systems for teachers, students, and homeschool families — written from a print shop that's processed thousands of them.
 
+### [Teacher planner 2026-2027: the complete back to school setup guide](/stikkas/journal/teacher-planner-back-to-school-2026-2027/)
+*11 min read · July 3, 2026*
+
+How to set up your teacher planner before Day 1 — class rosters, lesson plan templates, parent communication logs, sub quick-reference, and the weekly habit that keeps the system alive all year.
+
 ### [The teacher planner for 2026-2027 — what actually makes one work](/stikkas/journal/teacher-planner-2026-2027/)
 *9 min read · June 28, 2026*
 
@@ -254,6 +259,11 @@ When paper wins, when the app wins, and why the answer is usually somewhere in b
 ## Holiday Entertaining & Hosting
 
 Thanksgiving, Friendsgiving, and Christmas hosting guides for hosts who want to be present — not buried in logistics.
+
+### [Q4 holiday party planning: the complete host's guide to Halloween, Thanksgiving & Christmas (2026)](/stikkas/journal/q4-holiday-party-planning-guide/)
+*14 min read · July 3, 2026*
+
+Three seasons, three parties, one planning guide. When to start each holiday, the frameworks that work for Halloween, Thanksgiving, and Christmas hosting — and the bundle that covers all three in one download.
 
 ### [How to Host Christmas Like a Pro — Complete Holiday Hosting Guide 2026](/stikkas/journal/christmas-hosting-guide-2026/)
 *15 min read · July 2, 2026*
