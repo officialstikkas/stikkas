@@ -25,6 +25,13 @@ If the wedding day itself is what's worrying you (the timeline, the binder, the 
 
 ## Latest posts
 
+### [Mom Life Planner 2026: How to Organize Your Family Schedule Like a Pro](/stikkas/journal/mom-life-planner-2026/)
+*Family & Home · 12 min read · July 4, 2026*
+
+Running a household is a full-time job on top of everything else. Here’s what a mom life planner actually needs to contain, how to set one up in a Sunday afternoon, and the weekly ritual that makes it stick all year.
+
+---
+
 ### [College Dorm Checklist 2026: What to Bring, What to Skip, and How to Actually Get Organized](/stikkas/journal/college-dorm-checklist-2026/)
 *Back to School · 10 min read · June 30, 2026*
 
