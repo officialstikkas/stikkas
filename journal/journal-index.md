@@ -25,6 +25,13 @@ If the wedding day itself is what's worrying you (the timeline, the binder, the 
 
 ## Latest posts
 
+### [Valentine's Day 2027 Ideas for Couples — From $0 to Unforgettable](/stikkas/journal/valentines-day-ideas-for-couples/)
+*Couples & Relationships · 12 min read · July 6, 2026*
+
+The honest Valentine’s Day guide: why at-home beats expensive restaurants, specific gift ideas that show you actually know them, options across every budget, and how to make the intentionality stick past February 14th.
+
+---
+
 ### [100 Date Night Ideas for Couples — At Home, On a Budget, and Out on the Town](/stikkas/journal/date-night-ideas-for-couples/)
 *Couples & Relationships · 14 min read · July 6, 2026*
 
